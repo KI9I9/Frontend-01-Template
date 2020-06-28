@@ -1,2 +1,4 @@
 .DS_Store
 .idea
+week06/toy-browser/node_modules
+launch.json
